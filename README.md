@@ -4,7 +4,7 @@
 
 Submitted by: **Parker Cline**
 
-Time spent: **1.5** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -22,13 +22,14 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Added a settings screen.
+- [x] Added an option in the settings screen to change the tip percentage for the three segments.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/22AAOxO49k.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/cjsOeCPWk4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
